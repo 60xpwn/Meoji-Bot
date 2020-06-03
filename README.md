@@ -9,8 +9,7 @@ Upon joining, the bot will send this yellow-coloured embedded message:
 ```
 Thank You For Inviting Me!
 
-Let's get started
-
+Let's get started! Before you can use me, i will first need to know some information about your server. 
 ```
 
 
