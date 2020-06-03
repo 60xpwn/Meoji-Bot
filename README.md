@@ -10,7 +10,7 @@ Upon joining, the bot will send this yellow-coloured embedded message:
 Thank You For Inviting Me!
 
 Let's get started! Before you can use me, i will first need to know some information about your server. 
-```
+Meoji Bot - (Date)```
 
 
 After inviting the bot, you will ping mention the user who invited them, prompting them to setup the bot by using the !configure command. The bot will send a yellow embedded message, saying "Thank you for inviting me <@user>, Let's get started."
