@@ -7,16 +7,26 @@
 
 Upon joining, the bot will send this yellow-coloured embedded message:
 ```
-Thank You For Inviting Me!
+<@user> Please use !!configure to get started.
+```
 
-Let's get started! Before you can use me, i will first need to know some information about your server. 
-Meoji Bot - (Date)
+After the mentioned user uses `!!configure`, the bot will walk them through the setup process.
+
+```
+SETUP_MESSAGE1 = "The !!configure command can only be used by whoever invited me."
+SETUP_MESSAGE2 = "You will have 30 seconds to reply to each message."
+SETUP_MESSAGE3 = "First, reply with your preferred command prefix."
+SETUP_MESSAGE4 = "My command prefix is now `(prefix)`. What is the role ID of your punishment role?"
+SETUP_MESSAGE5 = "What is the role ID of the member role?"
+SETUP_MESSAGE6 = "Would you like me to enable logging?"
+SETUP_MESSAGE7 = "What channel should i save logs to?"
 ```
 
 
-After inviting the bot, you will ping mention the user who invited them, prompting them to setup the bot by using the !configure command. The bot will send a yellow embedded message, saying "Thank you for inviting me <@user>, Let's get started."
-
-This will
+```
+FAILED_MESSAGE1 = "You took too long."
+FAILED_MESSAGE2 = "Aborting..."
+```
 
 **Anti Spam**
 
