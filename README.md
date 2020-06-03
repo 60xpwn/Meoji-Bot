@@ -42,12 +42,24 @@ Now the bot is setup and ready to be used.
 
 **Anti - Raiding**
 
-> Provides Powerful Anti Raiding Solutions
+> Provides Powerful Anti Raiding Solutions!
 
-**Default Anti-Raiding Features Include;**
+**Default Anti-Raiding Features;**
 
 • [**Auto Muting**](https://github.com/60xpwn/Meoji/wiki/Text-Tools)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji/wiki/Text-Tools)
+
+**Anti - Spam**
+
+> Provives Powerful Anti - Spam Solutions!
+
+• [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
+
+• [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
+
+• [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+
+
 
 - Ergo, people should understand instantly what your project is about based on your repo
 
