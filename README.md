@@ -49,7 +49,7 @@ Now the bot is setup and ready to be used.
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Channel Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
-• [**Join Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/JoinLocking)
+• [**Member Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/MemberLocking)
 
 
 # **Anti - Spam**
@@ -63,6 +63,11 @@ Now the bot is setup and ready to be used.
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 • [**Moderation**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
 
+# **Server Utilities**
+
+> Provides Powerful Server Utility Tools!
+
+• [**Server Backups**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerBackups)
 
 - Ergo, people should understand instantly what your project is about based on your repo
 
