@@ -46,9 +46,9 @@ Now the bot is setup and ready to be used.
 
 **Default Anti-Raiding Features Include;**
 
-***INSERT ANOTHER GRAPHIC HERE***
 
-- Most people will glance at your `README`, *maybe* star it, and leave
+- Auto Muting
+
 - Ergo, people should understand instantly what your project is about based on your repo
 
 > Tips
