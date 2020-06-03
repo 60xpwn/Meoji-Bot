@@ -10,25 +10,37 @@ Upon joining, the bot will send this yellow-coloured embedded message:
 <@user> Please use !!configure to get started.
 ```
 
+At this stage, the bot has no functionality, and the bot will need to be configured strictly by whoever invited the bot.
+
+
 After the mentioned user uses `!!configure`, the bot will walk them through the setup process.
 
 ```
 SETUP_MESSAGE1 = "The !!configure command can only be used by whoever invited me."
+
 SETUP_MESSAGE2 = "You will have 30 seconds to reply to each message."
+
 SETUP_MESSAGE3 = "First, reply with your preferred command prefix."
+
 SETUP_MESSAGE4 = "My command prefix is now `(prefix)`. What is the role ID of your punishment role?"
+
 SETUP_MESSAGE5 = "What is the role ID of the member role?"
+
 SETUP_MESSAGE6 = "Would you like me to enable logging?"
+
 SETUP_MESSAGE7 = "What channel should i save logs to?"
 ```
 
 
 ```
 FAILED_MESSAGE1 = "You took too long."
+
 FAILED_MESSAGE2 = "Aborting..."
 ```
 
-**Anti Spam**
+Now the bot is all setup and is ready to be used.
+
+**Anti - Spam**
 
 > ideally one sentence
 
