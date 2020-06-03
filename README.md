@@ -46,8 +46,8 @@ Now the bot is setup and ready to be used.
 
 **Default Anti-Raiding Features Include;**
 
-
-- Auto Muting
+• [**Auto Muting**](https://github.com/60xpwn/Meoji/wiki/Text-Tools)
+• [**Auto Banning**](https://github.com/60xpwn/Meoji/wiki/Text-Tools)
 
 - Ergo, people should understand instantly what your project is about based on your repo
 
