@@ -3,7 +3,7 @@
 <a href="#Meoji Is Cool"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Meoji is good, so why aren't you using it?" alt="Meoji is good, so why aren't you using it?"></a>
 
 
-**Setting Up The Bot**
+# **Setting Up The Bot**
 
 Upon joining, the bot will send this yellow-coloured embedded message:
 ```
@@ -40,7 +40,7 @@ FAILED_MESSAGE2 = "Aborting..."
 
 Now the bot is setup and ready to be used.
 
-**Anti - Raiding**
+# **Anti - Raiding**
 
 > Provides Powerful Anti Raiding Solutions!
 
@@ -49,7 +49,7 @@ Now the bot is setup and ready to be used.
 • [**Auto Muting**](https://github.com/60xpwn/Meoji/wiki/Text-Tools)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji/wiki/Text-Tools)
 
-**Anti - Spam**
+# **Anti - Spam**
 
 > Provives Powerful Anti - Spam Solutions!
 
