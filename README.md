@@ -1,8 +1,8 @@
-# Meoji - An Advanced Anti Raid & Spam Discord Bot.
+# **Meoji - An Advanced Anti Raid & Spam Discord Bot.**
 
 <a href="#Meoji Is Cool"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Meoji is good, so why aren't you using it?" alt="Meoji is good, so why aren't you using it?"></a>
 
-
+*Meoji is a powerful, feature rich raid controlling solution, offering its users the most advanced protection against raids, spam, and abuse. Simply deploy our bot, and you will have the ultimate protection any discord server should have. Meoji offers a powerful bot out of the box, but allows for further customization to suit your needs!*
 # **Setting Up The Bot**
 
 Upon joining, the bot will send this yellow-coloured embedded message:
