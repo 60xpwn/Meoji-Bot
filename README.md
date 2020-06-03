@@ -48,16 +48,20 @@ Now the bot is setup and ready to be used.
 
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
+• [**Channel Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
+• [**Join Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/JoinLocking)
+
 
 # **Anti - Spam**
 
 > Provives Powerful Anti - Spam Solutions!
 
+**Default Anti-Spam Features;**
 
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
-
+• [**Moderation**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
 
 
 - Ergo, people should understand instantly what your project is about based on your repo
