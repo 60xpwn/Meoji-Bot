@@ -38,13 +38,13 @@ FAILED_MESSAGE1 = "You took too long."
 FAILED_MESSAGE2 = "Aborting..."
 ```
 
-Now the bot is all setup and is ready to be used.
+Now the bot is setup and ready to be used.
 
-**Anti - Spam**
+**Anti - Raiding**
 
-> ideally one sentence
+> Provides Powerful Anti Raiding Solutions
 
-**include terms/tags that can be searched**
+**Default Anti-Raiding Features Include;**
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
