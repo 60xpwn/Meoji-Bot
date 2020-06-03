@@ -6,7 +6,8 @@
 **Setting Up The Bot**
 
 Upon joining, the bot will send this yellow-coloured embedded message:
-```Thank You For Inviting Me!
+```
+Thank You For Inviting Me!
 
 Let's get started
 
