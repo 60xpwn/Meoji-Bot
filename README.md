@@ -7,8 +7,9 @@
 # **Invite The Bot To Your Server.**
 *Simply follow the link below to deploy our bot.*
 
-`https://discord.com`
-
+**```
+https://discord.com
+```**
 
 # **Setting Up The Bot**
 
