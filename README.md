@@ -5,7 +5,15 @@
 
 **Setting Up The Bot**
 
-After inviting the bot to your server, the bot will mention the user who invited them, prompting them to setup the bot by using the !configure command.
+Upon joining, the bot will send this yellow-coloured embedded message:
+```Thank You For Inviting Me!
+
+Let's get started
+
+```
+
+
+After inviting the bot, you will ping mention the user who invited them, prompting them to setup the bot by using the !configure command. The bot will send a yellow embedded message, saying "Thank you for inviting me <@user>, Let's get started."
 
 This will
 
