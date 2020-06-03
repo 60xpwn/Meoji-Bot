@@ -4,12 +4,16 @@
 
 *Meoji is a powerful, feature rich raid controlling solution, offering its users the most advanced protection against raids, spam, and abuse. Simply deploy our bot, and you will have the ultimate protection any discord server should have. Meoji offers a powerful bot out of the box, but allows for further customization to suit your needs!*
 
-# **Invite The Bot To Your Server.**
+# **Inviting The Bot.**
 *Simply follow the link below to deploy our bot.*
 
 ***`https://discord.com`***
 
 # **Setting Up The Bot**
+
+*If you want to run the bot from your own machine, or modify the code, follow these steps to installing the bot to your machine.*
+
+# About The Bot.
 
 Upon joining, the bot will send this yellow-coloured embedded message:
 ```
