@@ -5,6 +5,9 @@
 
 **Setting Up The Bot**
 
+After inviting the bot to your server, the bot will mention the user who invited them, prompting them to setup the bot by using the !configure command.
+
+This will
 
 **Anti Spam**
 
