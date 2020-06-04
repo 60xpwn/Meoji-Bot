@@ -56,6 +56,9 @@ Now the bot is setup and ready to be used.
 
 > Provides Powerful Anti - Raiding Solutions!
 
+*Shut down raids quickly, and effectively.*
+
+• [**Raid Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/RaidDetection)
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
@@ -66,10 +69,11 @@ Now the bot is setup and ready to be used.
 
 > Provives Powerful Anti - Spam Solutions!
 
+• [**Spam Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SpamDetection)
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Moderation**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
-• [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/Listing)
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 
 
@@ -77,10 +81,10 @@ Now the bot is setup and ready to be used.
 
 > Provides Powerful Server Utility Tools!
 
-• [**Chat Restoration**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
-• [**Chat Cleaning / Nuking**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
-• [**Invite Clearing**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
-• [**User Lookups**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [**Chat Restoration**](https://github.com/60xpwn/Meoji-Bot/wiki/ChatRestoration)
+• [**Chat Cleaning / Nuking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChatCleaning)
+• [**Invite Clearing**](https://github.com/60xpwn/Meoji-Bot/wiki/InviteCleaning)
+• [**User Lookups**](https://github.com/60xpwn/Meoji-Bot/wiki/UserLookups)
 • [**Server Backups**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerBackups)
 
 
