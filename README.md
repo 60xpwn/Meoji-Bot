@@ -98,9 +98,9 @@ apply blacklists and whitelists for phrases, links, and malicious file types, an
 • [**Mass Deletion**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Performance Monitoring**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 
-*With our smartly designed, built-in anti-moderation abuse, your moderators and admins will not be able to perform mass actions or co-ordinated actions, such as banning and unbanning large quantities of users, or creating and deleting large quantities of channels, categories and roles.*
+*With our smartly designed, built-in anti-moderation abuse, your moderators and admins will not be able to perform mass actions or co-ordinated actions, such as banning and unbanning large quantities of users, or creating and deleting large quantities of channels, categories or roles.*
 
-*Monitor a moderators performance with quality control measures, such as activity graphs, daily, weekly, and monthly user statistics, activity levels, and more.*
+*Monitor a moderators performance with quality control measures, such as activity graphs, daily, weekly, and monthly user statistics, activity levels, active channels, and more.*
 
 ---
 
@@ -115,6 +115,7 @@ apply blacklists and whitelists for phrases, links, and malicious file types, an
 • [**Server Backups**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerBackups)
 • [**Logging**](https://github.com/60xpwn/Meoji-Bot/wiki/Logging)
 
+*Quickly perform tasks for clearing and restoring channels, backing up important channels, categories, and roles, and choose to log all or key events for future referencing.*
 
 - Ergo, people should understand instantly what your project is about based on your repo
 
