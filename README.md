@@ -66,6 +66,8 @@ Now the bot is setup and ready to be used.
 • [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
 • [**Server Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
+---
+
 # **Anti - Spam**
 
 > Provives Powerful Anti - Spam Solutions!
@@ -78,6 +80,8 @@ Now the bot is setup and ready to be used.
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 • [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/Listing)
 
+---
+
 # **Anti - Moderation Abuse**
 
 > Provides Powerful Anti - Moderation Abuse!
@@ -88,6 +92,8 @@ Now the bot is setup and ready to be used.
 • [**Mass Creation**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Mass Deletion**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Performance Monitoring**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+
+---
 
 # **Additional Server Utility Tools**
 
@@ -101,13 +107,11 @@ Now the bot is setup and ready to be used.
 • [**Logging**](https://github.com/60xpwn/Meoji-Bot/wiki/Logging)
 
 
-
-
 - Ergo, people should understand instantly what your project is about based on your repo
 
 
-
 ---
+
 
 ## Table of Contents (Optional)
 
