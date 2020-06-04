@@ -123,9 +123,9 @@ apply blacklists and whitelists for phrases, links, and malicious file types, an
 ---
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
-> If your `README` has a lot of info, section headers might be nice.
+> This Document Has A Lot Of Information, So This Table Should Be Nice.
 
 - [Installation](#installation)
 - [Features](#features)
