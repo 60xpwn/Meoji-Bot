@@ -2,7 +2,7 @@
 
 <a href="#Meoji Is Cool"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Meoji is good, so why aren't you using it?" alt="Meoji is good, so why aren't you using it?"></a>
 
-*Meoji is a very powerful, security focused, feature rich raid and spam controlling solution, offering its users the most advanced protection against raids, spam, and abuse. Simply deploy our bot, and you will have the ultimate protection any discord server should have. Meoji works out of the box, but also allows for further customization to perfectly suit your needs!
+*Meoji is a very powerful, security focused, feature rich raid and spam controlling solution, offering its users the most advanced protection against raids, spam, and abuse. Simply deploy our bot, and you will have the ultimate protection any discord server should have. Meoji works out of the box, but also allows for further customization to perfectly suit your needs!*
 
 # **Inviting The Bot.**
 *Simply follow the link below to deploy our bot.*
@@ -66,6 +66,8 @@ Now the bot is setup and ready to be used.
 • [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
 • [**Server Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
+*With powerful raiding features like no other bot, you will have complete control over who can and cannot interact with your discord server. With features such as silencing channels at a moments notice, detecting and banning alts, you will have less time worrying about security, and more time with your friends.*
+
 ---
 
 # **Anti - Spam**
@@ -80,6 +82,9 @@ Now the bot is setup and ready to be used.
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 • [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/Listing)
 
+*With our set of powerful moderation tools, you will be able to quickly silence users, restore the chat to a particular time of day,
+apply blacklists and whitelists for phrases, links, and malicious file types, and get instant notifications abount abuse, allowing you to get more out of your day.
+
 ---
 
 # **Anti - Moderation Abuse**
@@ -92,6 +97,10 @@ Now the bot is setup and ready to be used.
 • [**Mass Creation**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Mass Deletion**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Performance Monitoring**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+
+*With our smartly designed, built-in anti-moderation abuse, your moderators and admins will not be able to perform mass actions or co-ordinated actions, such as banning and unbanning large quantities of users, or creating and deleting large quantities of channels, categories and roles.*
+
+*Monitor a moderators performance with quality control measures, such as activity graphs, daily, weekly, and monthly user statistics, activity levels, and more.*
 
 ---
 
