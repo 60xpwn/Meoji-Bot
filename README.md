@@ -59,7 +59,7 @@ Now the bot is setup and ready to be used.
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
-• [**Member Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/MemberLocking)
+• [**Member Join Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/MemberLocking)
 
 
 # **Anti - Spam**
@@ -79,7 +79,8 @@ Now the bot is setup and ready to be used.
 
 • [**Chat Restoration**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 • [**Chat Cleaning / Nuking**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
-• [**User Lookup**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [**Invite Clearing**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
+• [**User Lookups**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 • [**Server Backups**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerBackups)
 
 
