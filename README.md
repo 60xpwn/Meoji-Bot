@@ -83,7 +83,7 @@ Now the bot is setup and ready to be used.
 • [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/Listing)
 
 *With our set of powerful moderation tools, you will be able to quickly silence users, restore the chat to a particular time of day,
-apply blacklists and whitelists for phrases, links, and malicious file types, and get instant notifications abount abuse, allowing you to get more out of your day.
+apply blacklists and whitelists for phrases, links, and malicious file types, and get instant notifications abount abuse, allowing you to get more out of your day.*
 
 ---
 
