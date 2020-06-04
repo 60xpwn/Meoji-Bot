@@ -87,7 +87,7 @@ Now the bot is setup and ready to be used.
 • [**Mass Deletion**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Performance Monitoring**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 
-# **Server Utilities**
+# **Additional Server Utility Tools**
 
 > Provides Powerful Server Utility Tools!
 
