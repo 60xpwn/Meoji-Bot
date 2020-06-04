@@ -56,11 +56,9 @@ Now the bot is setup and ready to be used.
 
 > Provides Powerful Anti Raiding Solutions!
 
-**Default Anti-Raiding Features;**
-
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
-• [**Channel Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
+• [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
 • [**Member Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/MemberLocking)
 
 
@@ -68,12 +66,13 @@ Now the bot is setup and ready to be used.
 
 > Provives Powerful Anti - Spam Solutions!
 
-**Default Anti-Spam Features;**
-
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
-• [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 • [**Moderation**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
+• [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [****](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
+
 
 # **Server Utilities**
 
