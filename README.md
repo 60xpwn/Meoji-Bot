@@ -23,7 +23,7 @@ Upon joining, the bot will send this yellow-coloured embedded message:
 At this stage, the bot has no functionality, and the bot will need to be configured strictly by whoever invited the bot.
 
 
-After the mentioned user uses `!!configure`, the bot will walk them through the setup process.
+After the mentioned user uses the `!!configure` command, the bot will walk them through the setup process.
 
 ```
 SETUP_MESSAGE1 = "The !!configure command can only be used by whoever invited me."
@@ -41,12 +41,15 @@ SETUP_MESSAGE6 = "Would you like me to enable logging?"
 SETUP_MESSAGE7 = "What channel should i save logs to?"
 ```
 
-
 ```
 FAILED_MESSAGE1 = "You took too long."
 
 FAILED_MESSAGE2 = "Aborting..."
 ```
+
+
+• [**Setup Messages**](https://github.com/60xpwn/Meoji-Bot/wiki/SetupMessages)
+
 
 Now the bot is setup and ready to be used.
 
