@@ -76,7 +76,7 @@ Now the bot is setup and ready to be used.
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Moderation**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
 • [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/Listing)
-• [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [**Suspicious Activity Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 
 # **Anti - Moderation Abuse**
 
@@ -88,11 +88,6 @@ Now the bot is setup and ready to be used.
 • [**Mass Creation**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Mass Deletion**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
-
-
-
-
-
 
 # **Server Utilities**
 
