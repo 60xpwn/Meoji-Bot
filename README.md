@@ -96,6 +96,7 @@ Now the bot is setup and ready to be used.
 • [**Invite Clearing**](https://github.com/60xpwn/Meoji-Bot/wiki/InviteCleaning)
 • [**User Lookups**](https://github.com/60xpwn/Meoji-Bot/wiki/UserLookups)
 • [**Server Backups**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerBackups)
+• [**Logging**](https://github.com/60xpwn/Meoji-Bot/wiki/Logging)
 
 
 
