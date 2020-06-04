@@ -84,10 +84,10 @@ Now the bot is setup and ready to be used.
 
 *Protect your server, even from the higher ups! Security is needed most where you think you need it the least.*
 
-• [**Mass Kick/Ban*](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
+• [**Mass Kick/Ban**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Mass Creation**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Mass Deletion**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
-• [**Performance Monitor**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [**Performance Monitoring**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 
 # **Server Utilities**
 
