@@ -47,8 +47,7 @@ FAILED_MESSAGE1 = "You took too long."
 FAILED_MESSAGE2 = "Aborting..."
 ```
 
-
-• [**Initial Configuration**](https://github.com/60xpwn/Meoji-Bot/wiki/Initial Configuration)
+• [**Initial Configuration**](https://github.com/60xpwn/Meoji-Bot/wiki/InitialConfiguration)
 
 
 Now the bot is setup and ready to be used.
