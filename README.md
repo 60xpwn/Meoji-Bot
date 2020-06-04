@@ -56,11 +56,12 @@ Now the bot is setup and ready to be used.
 
 > Provides Powerful Anti - Raiding Solutions!
 
-*Shut down raids quickly, and effectively.*
+*Shut down raids quickly, effectively, and effortlessly.*
 
 • [**Raid Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/RaidDetection)
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
+• [**VPN/Proxy Blocker**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
 • [**Member Join Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/MemberLocking)
 
@@ -68,6 +69,8 @@ Now the bot is setup and ready to be used.
 # **Anti - Spam**
 
 > Provives Powerful Anti - Spam Solutions!
+
+*
 
 • [**Spam Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SpamDetection)
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
