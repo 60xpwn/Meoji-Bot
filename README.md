@@ -52,6 +52,8 @@ FAILED_MESSAGE2 = "Aborting..."
 
 Now the bot is setup and ready to be used.
 
+---
+
 # **Anti - Raiding**
 
 > Provides Powerful Anti - Raiding Solutions!
