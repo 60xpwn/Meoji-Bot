@@ -62,7 +62,7 @@ Now the bot is setup and ready to be used.
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**VPN/Proxy Blocker**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
-• [**Server**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
+• [**Server Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
 • [**Verification**](https://github.com/60xpwn/Meoji-Bot/wiki/Verification)
 
