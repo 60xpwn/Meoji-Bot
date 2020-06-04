@@ -4,7 +4,8 @@
 
 *Meoji is an extremely powerful, security focused, feature rich raid and spam controlling solution, offering its users the most advanced protection against raids, spam, and abuse. Simply deploy our bot, and you will have the ultimate protection any discord server should have. Meoji works out of the box, but also allows for further customization to perfectly suit your needs!*
 
-*This bot is heavily focused on security and anti-abuse. There are no additional features that do-everything bots have.*
+
+*This bot is solely, and heavily focused on security. There are no additional features that do-everything bots have. While most of the code for this discord bot will remain open source and free for you to use, and modify, we want to ensure that our users have the most advanced protection, which is one of the main reasons why our anti-raiding will remain closed source.*
 
 # **Inviting The Bot.**
 *Simply follow the link below to deploy our bot.*
