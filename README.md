@@ -80,9 +80,9 @@ Now the bot is setup and ready to be used.
 
 # **Anti - Moderation Abuse**
 
-> Protect your server, even from the higher ups! Security is needed most where you think you need it the least.
+> Provides Powerful Anti - Moderation Abuse!
 
-*Bring a stop to spammers, harrassment, off topic chatter and more.*
+*Protect your server, even from the higher ups! Security is needed most where you think you need it the least.*
 
 • [**Mass Kick / Ban Prevention**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Mass Role Creation / Deletion Prevention**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
