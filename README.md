@@ -70,7 +70,7 @@ Now the bot is setup and ready to be used.
 
 > Provives Powerful Anti - Spam Solutions!
 
-*
+*Bring a stop to spammers, harrassment, off topic chatter and more.*
 
 • [**Spam Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SpamDetection)
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
