@@ -48,7 +48,7 @@ FAILED_MESSAGE2 = "Aborting..."
 ```
 
 
-• [**Setup Messages**](https://github.com/60xpwn/Meoji-Bot/wiki/SetupMessages)
+• [**Initial Configuration**](https://github.com/60xpwn/Meoji-Bot/wiki/Initial Configuration)
 
 
 Now the bot is setup and ready to be used.
