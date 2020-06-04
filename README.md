@@ -78,6 +78,22 @@ Now the bot is setup and ready to be used.
 • [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/Listing)
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 
+# **Anti - Moderation Abuse**
+
+> Protect your server, even from the higher ups! Security is needed most where you think you need it the least.
+
+*Bring a stop to spammers, harrassment, off topic chatter and more.*
+
+• [**Mass Kick / Ban Prevention**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
+• [**Mass Role Creation / Deletion Prevention**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
+• [**Mass Channel Creation / Deletion Prevention**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
+• [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/Listing)
+• [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+
+
+
+
+
 
 # **Server Utilities**
 
