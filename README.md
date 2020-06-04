@@ -2,7 +2,9 @@
 
 <a href="#Meoji Is Cool"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Meoji is good, so why aren't you using it?" alt="Meoji is good, so why aren't you using it?"></a>
 
-*Meoji is a very powerful, security focused, feature rich raid and spam controlling solution, offering its users the most advanced protection against raids, spam, and abuse. Simply deploy our bot, and you will have the ultimate protection any discord server should have. Meoji works out of the box, but also allows for further customization to perfectly suit your needs!*
+*Meoji is an extremely powerful, security focused, feature rich raid and spam controlling solution, offering its users the most advanced protection against raids, spam, and abuse. Simply deploy our bot, and you will have the ultimate protection any discord server should have. Meoji works out of the box, but also allows for further customization to perfectly suit your needs!*
+
+*This bot is heavily focused on security and anti-abuse. There are no additional features that do-everything bots have.*
 
 # **Inviting The Bot.**
 *Simply follow the link below to deploy our bot.*
