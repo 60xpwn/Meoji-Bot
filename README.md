@@ -54,7 +54,7 @@ Now the bot is setup and ready to be used.
 
 # **Anti - Raiding**
 
-> Provides Powerful Anti Raiding Solutions!
+> Provides Powerful Anti - Raiding Solutions!
 
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
@@ -71,14 +71,19 @@ Now the bot is setup and ready to be used.
 • [**Moderation**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
 • [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
-• [****](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
 
 
 # **Server Utilities**
 
 > Provides Powerful Server Utility Tools!
 
+• [**Chat Restoration**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [**Chat Cleaning / Nuking**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
+• [**User Lookup**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
 • [**Server Backups**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerBackups)
+
+
+
 
 - Ergo, people should understand instantly what your project is about based on your repo
 
