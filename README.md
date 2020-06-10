@@ -1,4 +1,4 @@
-# **Meoji - An Advanced Anti Raid & Spam Discord Bot.**
+# **MeojiAntiSpam - An Advanced Anti Raid & Spam Discord Bot.**
 
 <a href="#Meoji Is Cool"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Meoji is good, so why aren't you using it?" alt="Meoji is good, so why aren't you using it?"></a>
 
