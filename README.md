@@ -16,47 +16,6 @@
 
 *If you want to run the bot from your own machine, or modify the code, follow these steps to installing the bot to your machine.*
 
-# About The Bot.
-
-Upon joining, the bot will send this yellow-coloured embedded message:
-```
-<@user> Please use !!configure to get started.
-```
-
-At this stage, the bot has no functionality, and the bot will need to be configured strictly by whoever invited the bot.
-
-
-After the mentioned user uses the `!!configure` command, the bot will walk them through the setup process.
-
-```
-SETUP_MESSAGE1 = "The !!configure command can only be used by whoever invited me."
-
-SETUP_MESSAGE2 = "You will have 30 seconds to reply to each message."
-
-SETUP_MESSAGE3 = "First, reply with your preferred command prefix."
-
-SETUP_MESSAGE4 = "My command prefix is now `(prefix)`. What is the role ID of your punishment role?"
-
-SETUP_MESSAGE5 = "What is the role ID of the member role?"
-
-SETUP_MESSAGE6 = "Would you like me to enable logging?"
-
-SETUP_MESSAGE7 = "What channel should i save logs to?"
-```
-
-```
-FAILED_MESSAGE1 = "You took too long."
-
-FAILED_MESSAGE2 = "Aborting..."
-```
-
-• [**Initial Configuration**](https://github.com/60xpwn/Meoji-Bot/wiki/InitialConfiguration)
-
-
-Now the bot is setup and ready to be used.
-
----
-
 # **Anti - Raiding**
 
 > Provides Powerful Anti - Raiding Solutions!
