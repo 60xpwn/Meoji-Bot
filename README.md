@@ -12,9 +12,9 @@
 
 ***`https://discord.com/oauth2/authorize?client_id=&scope=bot&permissions=8`***
 
-# **Setting Up The Bot**
+# **Self Hosting**
 
-*If you want to run the bot from your own machine, or modify the code, follow these steps to installing the bot to your machine.*
+*To protect our users against potentially malicious attacks, we are currently not releasing the source code to the anti spam bot.*
 
 # **Anti - Raiding**
 
